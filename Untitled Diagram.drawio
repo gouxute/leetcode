@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T07:34:04.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="o_e7InrHwQvTjzWc_Nj8" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T07:35:26.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="z71DhMQmjwspn7TEaEHF" version="13.10.8" type="github">
   <diagram id="691b31df-7cfc-d80e-552c-7aa9f8c0b5f7" name="Page-1">
     <mxGraphModel dx="2049" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -435,6 +435,18 @@
         </mxCell>
         <mxCell id="V9bFGLtEwvfLS84xU0cV-159" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;上位词&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-163" value="家电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="1190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-164" value="电器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="1270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-165" value="清洗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="1430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-166" value="清洁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="1510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
