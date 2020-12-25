@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T11:50:28.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="yqnlwcB-T6LWIpgonZEN" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T11:51:54.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="uqsWSeCYpJ6qto6x_UYn" version="13.10.8" type="github">
   <diagram id="691b31df-7cfc-d80e-552c-7aa9f8c0b5f7" name="Page-1">
     <mxGraphModel dx="4455" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1417,8 +1417,27 @@
         <mxCell id="V9bFGLtEwvfLS84xU0cV-576" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Gaussian Kernel pool&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1071.12" y="615" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V9bFGLtEwvfLS84xU0cV-580" value="Full&lt;br&gt;Connected&lt;br&gt;Layer" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;gradientColor=none;fontSize=18;align=center;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-790.25" y="511" width="120.25" height="325" as="geometry" />
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-580" value="FC" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;gradientColor=none;fontSize=18;align=center;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-802.13" y="304.5" width="43.75" height="751" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-581" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="V9bFGLtEwvfLS84xU0cV-559" target="V9bFGLtEwvfLS84xU0cV-580">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-582" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="V9bFGLtEwvfLS84xU0cV-566" target="V9bFGLtEwvfLS84xU0cV-580">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-842" y="806" />
+              <mxPoint x="-842" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-583" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="V9bFGLtEwvfLS84xU0cV-548" target="V9bFGLtEwvfLS84xU0cV-580">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="1040" />
+              <mxPoint x="-840" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
