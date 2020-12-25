@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T07:48:11.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UiJnbotBTHW4u4vnH7GZ" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T07:48:43.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="KptZOGvnaOe0P9A1rGih" version="13.10.8" type="github">
   <diagram id="691b31df-7cfc-d80e-552c-7aa9f8c0b5f7" name="Page-1">
     <mxGraphModel dx="2049" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -670,14 +670,14 @@
         <mxCell id="V9bFGLtEwvfLS84xU0cV-284" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;行为&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="307.37" y="2195" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V9bFGLtEwvfLS84xU0cV-285" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;行为&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1793" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V9bFGLtEwvfLS84xU0cV-286" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;行为&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="708.25" y="1793" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="V9bFGLtEwvfLS84xU0cV-287" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;上位词&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="1780" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-288" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;上位词&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="617.38" y="1780" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V9bFGLtEwvfLS84xU0cV-289" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;上位词&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;gradientDirection=north;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="697.38" y="1780" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
