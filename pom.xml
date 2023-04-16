@@ -9,7 +9,7 @@
     <name>leetcode</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <akka.version>2.3.9</akka.version>
+        <akka.version>2.4.17</akka.version>
         <scala-library.version>2.11.5</scala-library.version>
     </properties>
 
